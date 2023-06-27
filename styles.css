@@ -64,6 +64,10 @@ body {
     gap: 5vw;
 }
 
+.image-container {
+    border: 3px solid white;
+}
+
 /* footer */
 
 .footer {
