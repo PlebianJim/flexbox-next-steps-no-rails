@@ -36,7 +36,6 @@ body {
     justify-content: center;
     align-items: center;
     width: 60vw;
-    /* border: 3px solid white; */
     margin: 5vh;
 }
 
@@ -52,6 +51,10 @@ body {
     height: 30vh;
     background-color: lightblue;
     gap: 10vh;
+}
+
+.logo-image {
+    width: 60%;
 }
 
 .photo-grid {
